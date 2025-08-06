@@ -6,34 +6,40 @@ Agentic AI for Personalized Learning Pathways Built with LangGraph and ReAct arc
 
 LearnMate-agent is an intelligent agent designed to craft personalized course pathways based on a user's:
 
-•	Interests
+• Interests
 
-•	Skill level
+• Skill level
 
-•	Content preferences
+• Content preferences
 
 It leverages cutting-edge agentic design principles to deliver adaptive, goal-driven learning experiences.
 
 🛠️ Tech Stack
 
-LangGraph	Enables dynamic agent workflows and modular graph-based reasoning
+LangGraph  Enables dynamic agent workflows and modular graph-based reasoning
 
-ReAct Architecture	Combines reasoning and acting for interactive decision-making
+ReAct Architecture  Combines reasoning and acting for interactive decision-making
 
-Granite-3-3-8b	IBM's powerful instruction-tuned LLM for contextual understanding
+Granite-3-3-8b  IBM's powerful instruction-tuned LLM for contextual understanding
 
-watsonx Agent Lab	Seamless integration for deployment and orchestration of agentic workflows
+watsonx Agent Lab  Seamless integration for deployment and orchestration of agentic workflows
 
 📦 Features
 
-•	🔍 Interest-based filtering: Tailors course suggestions to user passions
+• 🔍 Interest-based filtering: Tailors course suggestions to user passions
 
-•	📈 Skill-level adaptation: Matches content difficulty to user proficiency
+• 📈 Skill-level adaptation: Matches content difficulty to user proficiency
 
-•	🎯 Goal-driven planning: Generates structured learning paths with clear milestones
+• 🎯 Goal-driven planning: Generates structured learning paths with clear milestones
 
-•	🧩 Modular design: Easily extendable for new domains or learning platforms
+• 🧩 Modular design: Easily extendable for new domains or learning platforms
 
 📄 Documentation
 
 For a deeper dive into architecture, use cases, and future roadmap, check out project.pdf.
+
+## Jupyter Notebook
+
+An interactive Jupyter notebook is now included in this repository! Use it to explore LearnMate-agent’s capabilities, experiment with personalized learning pathways, and try out code examples.
+- Find the notebook in the project directory.
+- It serves as a hands-on guide for getting started and running experiments.
